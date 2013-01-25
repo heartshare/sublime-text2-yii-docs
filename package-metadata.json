@@ -1,5 +1,5 @@
 {
-	"url": "https://bitbucket.org/d3th/sublime-yii-docs",
+	"url": "https://github.com/d3th/sublime-text2-yii-docs",
 	"version": "0.1", 
-	"description": "Sublime Text 2 plugin for search in Yii documentation"
+	"description": "Sublime Text 2 plugin for search in Yii Framework documentation"
 }

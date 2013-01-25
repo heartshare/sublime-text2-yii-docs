@@ -1,9 +1,9 @@
 # yiiDocs
-A Sublime Text 2 plugin for search in Yii documentation
+A Sublime Text 2 plugin for search in Yii Framework documentation
 
 # Installation
 
-Download the latest source from (https://bitbucket.org/d3th/sublime-yii-docs) and extract the files to your Sublime Text "Packages" directory, into a new directory named `yiidocs`.
+Download the latest source from (https://github.com/d3th/sublime-text2-yii-docs) and extract the files to your Sublime Text "Packages" directory, into a new directory named `yiidocs`.
 
 The "Packages" directory location:
 
